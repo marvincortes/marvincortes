@@ -4,8 +4,8 @@
 - 💞️ php with Laravel is my currently friend now.
 - 😘 Recent works/project: an online ecommerce platform.
 - 💻 Previous works related to programming: 
-  [year]                              [title]                                                                [short description]
-   2014    -    System developer at Statistical tool in Digos City                    -      (On Job Training at Research Study Development in SPAC, making statistical tools)
+   2014 - System developer at Statistical tool in Digos City  - (On Job Training at Research Study Development in SPAC, making statistical tools)
+   
    2014    -    System developer at CSG Voting system in Digos City                   -      (eVoting at College School Governance in South Philippine Adventist College)
    2015    -    System developer at PHYSICIAN MANAGEMENT SYSTEM in Digos City         -      (4th year student a research study: Thesis) [graduated ✔️]
    2015    -    System developer at ASG VOTING SYSTEM in Digos City                   -      (eVoting Academy School Governance in South Philippine Adventist College)
