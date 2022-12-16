@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marvincortes, a Computer Science graduated at South Philippine Adventist College, School Year 2015.
+- 👋 Hi, I’m @marvincortes, a Computer Science, graduated at South Philippine Adventist College, School Year 2015.
 - 👀 I am  a web developer from Philippines Davao De Oro, Nabunturan. I love building new things on the web, either online or offline.
 - 🌱 I primarily use php language, but picking up a new frameworks isn't a problem.
 - 💞️ php with Laravel is my currently friend now.
