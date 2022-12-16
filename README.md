@@ -21,7 +21,7 @@
    
    2016-2017 - Junior developer at Segworks Technologies Corporation in Davao City - (Hospital Information System at Southern Philippines Medical Center, SPMC)
    
-   2017 - System developer at SENIOR HIGH PREDICTION SYSTEM in Digos City - (4th year student a research study: Thesis) [graduated ✔️]
+   2017 - System developer at SENIOR HIGH PREDICTION SYSTEM in Digos City - (4th year student a research study: Thesis)  [graduated ✔️]
    
    2017 - System developer at MUTYA NG BANGKEROHAN PAGEANT SYSTEM in Davao City - (Pageants in bangkerohan Matina, Davao City, Philippines)
    
