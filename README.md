@@ -27,6 +27,10 @@
    
    2018 - System developer at EVALUATION OF COLLEGE STUDENT SYSTEM in Digos City - (4th year student a research study: Thesis) [graduated ✔️]
    
+   2019-2020  - create the site's for skapar, mythteor, and myths. - (an online website)
+   
+   2021 - Manage and Own a Private VPS for VPN connections in most Mobile devices. - (a Virtual Private Server that works on Virtual Private Networks in Mobile)
+   
    2022 - Studying Python Programming Language and Django Framework in Nabunturan      (6 months studying with Mentor Fullstack developer master Reiljun)
    
 <!---
