@@ -17,7 +17,7 @@
    
    2016 - System developer at ONLINE GRADING SYSTEM in Digos City  -   (4th year student a research study: Thesis) [graduated ✔️]
    
-   2016 - System developer at Integrating Specific Department policies eAdvisor system (4th year student a research study: Thesis) [ not yet graduated ]
+   2016 - System developer at Integrating Specific Department policies eAdvisor system (4th year student a research study: Thesis) [ not yet graduated cuz the student stop schooling ]
    
    2016-2017 - Junior developer at Segworks Technologies Corporation in Davao City - (Hospital Information System at Southern Philippines Medical Center, SPMC)
    
