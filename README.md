@@ -17,15 +17,13 @@
    
    2016 - System developer at ONLINE GRADING SYSTEM in Digos City  -   (4th year student a research study: Thesis) [graduated ✔️]
    
-   2016 - System developer at Integrating Specific Department policies eAdvisor system (4th year student a continuation research study from old student: Thesis) [ not yet graduated cuz the student stop schooling ]
-   
    2016-2017 - Junior developer at Segworks Technologies Corporation in Davao City - (Hospital Information System at Southern Philippines Medical Center, SPMC)
    
    2017 - System developer at SENIOR HIGH PREDICTION SYSTEM in Digos City - (4th year student a research study: Thesis)  [graduated ✔️]
    
    2017 - System developer at MUTYA NG BANGKEROHAN PAGEANT SYSTEM in Davao City - (Pageants in bangkerohan Matina, Davao City, Philippines)
    
-   2018 - System developer at EVALUATION OF COLLEGE STUDENT SYSTEM in Digos City - (4th year student a research study: Thesis) [graduated ✔️]
+   2018 - System developer at EVALUATION OF SUBJECTS eAdvisor system in Digos City - (4th year student a continuation research study from old student: Thesis) [not yet graduated cuz the student stop schooling ]
    
    2019-2020  - create the site's for skapar, mythteor, and myths. - (an online website)
    
