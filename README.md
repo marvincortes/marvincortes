@@ -2,7 +2,8 @@
 - 👀 I am  a web developer from Philippines Davao De Oro, Nabunturan. I love building new things on the web, either online or offline.
 - 🌱 I primarily use php language, but picking up a new frameworks isn't a problem.
 - 💞️ php with Laravel is my currently friend now.
-- 😘 Recent works/project: an online ecommerce platform.
+- 😘 Recent works/project: an online ecommerce platform. [www.partsman.com]
+- ✨ Site portfolio  https://marvincortes.github.io/portfolio/
 - 💻 Previous works related to programming: 
  
    2014 - System developer at Statistical tool in Digos City  -  (On Job Training at Research Study Development in SPAC, making statistical tools)
@@ -30,6 +31,8 @@
    2021 - Manage and Own a Private VPS for VPN connections in most Mobile devices. - (a Virtual Private Server that works on Virtual Private Networks in Mobile)
    
    2022 - Studying Python Programming Language and Django Framework in Nabunturan      (6 months studying with Mentor Fullstack developer master Reiljun)
+
+   2022 - 2023  Partsman - A vehicle Parts Platform one-stop-shop for premium Vehicle Parts, Genuine Parts, and Aftermarket Parts. [www.partsman.ph]
    
 <!---
 marvincortes/marvincortes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
