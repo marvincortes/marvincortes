@@ -2,7 +2,7 @@
 - 👀 I am  a web developer from Philippines Davao De Oro, Nabunturan. I love building new things on the web, either online or offline.
 - 🌱 I primarily use php language, but picking up a new frameworks isn't a problem.
 - 💞️ php with Laravel is my currently friend now.
-- 😘 Recent works/project: an online ecommerce platform. [www.partsman.com]
+- 😘 Recent works/project: an online ecommerce platform. [www.partsman.ph]
 - ✨ Site portfolio  https://marvincortes.github.io/portfolio/
 - 💻 Previous works related to programming: 
  
