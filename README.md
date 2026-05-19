@@ -1,5 +1,5 @@
 - 👋 Hi, I'm marvincortes, a Computer Science graduate from South Philippine Adventist College, Class of 2015.
-- 😘 Recent works/project: an online ecommerce platform: partsman.ph
+- 😘 Recent works/project: farm solutions records 
 - ✨ Site portfolio:  https://marvincortes.github.io/portfolio/
   
 <!---
